@@ -1,12 +1,6 @@
-Sample Module Repository
+Flaskmod
 ========================
 
-This simple project is an example repo for Python projects.
+This is a Flask application, designed to function in tandem with the sysmod application, built according to the samplemod template.
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
-
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
-
-✨🍰✨
+To run, simply install flask and sysmod, then type "flaskmod" into the command line.

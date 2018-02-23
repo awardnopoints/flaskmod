@@ -1,2 +1,4 @@
-nose
-sphinx
+Flask
+setuptools
+pip
+sysmod ( https://github.com/awardnopoints/sysmod.git )
