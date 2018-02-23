@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def main():
-	import systeminfo.systeminfo as si
+	import sysmod.main as si
 	return si.systeminfo()
 
 if __name__ == "__main__":
